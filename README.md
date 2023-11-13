@@ -23,7 +23,7 @@ spring:
 ```
 
 ## Spent time on server part development
-40m - reviewing requirements and implementing design;
-4h-5h - implementation;
-1h - manual testing and bugs fixing;
+40m - reviewing requirements and implementing design;<br>
+4h-5h - implementation;<br>
+1h - manual testing and bugs fixing;<br>
 30m - connecting swagger and fixing issues with it.
