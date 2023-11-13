@@ -21,3 +21,9 @@ spring:
     username: {value} - required
     password: {value} - required
 ```
+
+## Spent time on server part development
+40m - reviewing requirements and implementing design;
+4h-5h - implementation;
+1h - manual testing and bugs fixing;
+30m - connecting swagger and fixing issues with it.
